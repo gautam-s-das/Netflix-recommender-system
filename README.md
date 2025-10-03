@@ -1,4 +1,6 @@
 Netflix's recommender system is a sophisticated AI and machine learning-driven engine that creates a personalized user experience by analyzing viewing habits, content metadata, and contextual information to suggest relevant movies and shows. It uses multiple techniques like collaborative and content-based filtering, adapts to user behavior and context, and is continuously refined through A/B testing to maximize engagement and help users discover new content. 
+
+
 Key Components & How it Works
 Data Collection: The system gathers a wide range of user data, including viewing history, ratings, time of day, device used, and time spent on content. 
 Content Analysis: It analyzes content attributes such as genre, actors, and directors to understand what kind of content a user might enjoy. 
